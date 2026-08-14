@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-maxees.originmovement.co.nz/sitemap.xml
